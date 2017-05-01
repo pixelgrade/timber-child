@@ -1,0 +1,21 @@
+/*
+ Theme Name: Timber Child
+ Theme URI: http://pixelgrade.com/demos/timber/
+ Author: PixelGrade
+ Author URI: https://pixelgrade.com
+ Template: timber
+ Description: This is a child theme for Timber.
+ Version: 1.0.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain: timber-child-theme
+ Domain Path: /languages/
+ Tags: light, white, yellow, one-column, two-columns, three-columns, right-sidebar, responsive-layout, custom-menu, featured-images, editor-style, infinite-scroll, microformats, post-formats, rtl-language-support, site-logo, sticky-post, theme-options, threaded-comments, translation-ready, blog, fashion, journal, lifestream, magazine, news, scrapbooking, video, bright, clean, elegant, geometric, glamorous, industrial, light, minimal, modern, sophisticated
+*/
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: timber' line. */
